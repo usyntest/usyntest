@@ -1,6 +1,6 @@
 # Uday Sharma
 
 - Studying Computer Science at the University of Delhi, 2026.
-- Currently working on [krypton](https://github.com/usyntest/krypton) and [GGS Social](https://github.com/usyntest/GGS-Social).
-- Trying out Machine Learning.  
+- Machine Learning enthusiast.
+- Trying to contribute to [opencv](https://github.com/opencv/opencv)
 - [Personal Website](https://usyntest.github.io)
